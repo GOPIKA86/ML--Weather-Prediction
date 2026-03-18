@@ -163,6 +163,9 @@ for target in targets:
 <img width="1805" height="680" alt="image" src="https://github.com/user-attachments/assets/2c101f8d-3d68-47bc-91ac-90c4388e8aa9" />
 <img width="1818" height="134" alt="image" src="https://github.com/user-attachments/assets/fdcb9b41-0db1-410b-ba93-b46391ccf8db" />
 
+
 ## Result:
+
+
 
 The Random Forest Regression model was successfully implemented to predict temperature, PM2.5 pollution level, and solar radiation energy using environmental sensor data. The model produced accurate predictions and effectively analyzed the relationship between environmental factors and weather conditions.
